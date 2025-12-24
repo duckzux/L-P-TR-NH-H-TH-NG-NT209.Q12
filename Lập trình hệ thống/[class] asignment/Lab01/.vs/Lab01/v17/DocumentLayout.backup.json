@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UIT\\3. LTHT\\L\u1EADp tr\u00ECnh h\u1EC7 th\u1ED1ng\\[class] asignment\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8540B2E-35A2-4653-A9E6-27930153A77B}|Lab01\\Lab01.vcxproj|F:\\UIT\\3. LTHT\\L\u1EADp tr\u00ECnh h\u1EC7 th\u1ED1ng\\[class] asignment\\Lab01\\Lab01\\Lab01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8540B2E-35A2-4653-A9E6-27930153A77B}|Lab01\\Lab01.vcxproj|solutionrelative:Lab01\\Lab01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab01.cpp",
+              "DocumentMoniker": "F:\\UIT\\3. LTHT\\L\u1EADp tr\u00ECnh h\u1EC7 th\u1ED1ng\\[class] asignment\\Lab01\\Lab01\\Lab01.cpp",
+              "RelativeDocumentMoniker": "Lab01\\Lab01.cpp",
+              "ToolTip": "F:\\UIT\\3. LTHT\\L\u1EADp tr\u00ECnh h\u1EC7 th\u1ED1ng\\[class] asignment\\Lab01\\Lab01\\Lab01.cpp*",
+              "RelativeToolTip": "Lab01\\Lab01.cpp*",
+              "ViewState": "AgIAANcAAAAAAAAAAADwv/QAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T01:03:50.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
